@@ -1,0 +1,6 @@
+name: lambda-api-gateway
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: Look for a lambda already created and it makes a POST endpoint to this lambda
