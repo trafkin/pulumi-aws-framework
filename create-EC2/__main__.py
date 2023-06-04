@@ -1,10 +1,6 @@
-import pulumi
 import pulumi_aws as aws
 
 from instances_data import instances
-
-
-instances
 
 for instance in instances:
 
